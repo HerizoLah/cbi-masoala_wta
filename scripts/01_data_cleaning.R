@@ -2,7 +2,6 @@ library(readxl)
 library(dplyr)
 
 # read data
-# use a relative path so the project can be shared on GitHub
 df <- read_excel("data/df_17-12-2025.xlsx", col_names = TRUE, na = c("", "NA"))
 
 # convert bid variables to numeric
