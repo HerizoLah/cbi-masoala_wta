@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Estimating a Conservation Basic Income (CBI) for Social Equity in Masoala, Madagascar"
+message: "If you use this repository, please cite it as follows."
+type: dataset
+authors:
+  - family-names: "Andriambololona"
+    given-names: "Herizo"
+    email: "hrzlah@gmail.com"
+    orcid: "0009-0007-2678-122X"  
+repository-code: "https://github.com/HerizoLah/cbi-masoala_wta"
+url: "https://github.com/HerizoLah/cbi-masoala_wta"
+keywords:
+  - conservation economics
+  - Madagascar
+  - willingness to accept
+  - contingent valuation
+  - conservation basic income
+license: "MIT"  # change if you use another license
+version: "1.0.0"
+date-released: 2026-04-02
