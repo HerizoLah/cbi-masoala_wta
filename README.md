@@ -6,7 +6,7 @@ This repository contains the R code and supporting files used for the analysis o
 - scripts/ contains the R scripts for data cleaning, analysis, and figure production  
 - data/raw/ is reserved for raw data and is not publicly shared due to confidentiality constraints  
 - data/processed/ contains the cleaned or shareable dataset used for analysis  
-- results/ contains model outputs and generated figures  
+- results/ contains model outputs and generated figures and tables
 
 ## Scripts
 
