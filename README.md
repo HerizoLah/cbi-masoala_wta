@@ -22,6 +22,7 @@ Run the scripts in this order:
 - Main R packages used include readxl, dplyr, interval, survival, broom, ggplot2, and forcats  
 
 ## Data availability
+DOI: https://doi.org/10.5281/zenodo.19385035
 
 The original household survey data are not publicly shared due to confidentiality and ethical considerations. A processed or anonymized dataset may be provided upon reasonable request.
 
